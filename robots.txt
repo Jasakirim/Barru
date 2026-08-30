@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://spxexpressbarru.com/sitemap.xml
+
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /private/
+
